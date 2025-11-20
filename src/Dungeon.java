@@ -26,7 +26,7 @@ public class Dungeon {
             for (int x = 0; x < width; x++) {
                 // Bordures → murs
                 if (y == 0 || y == height - 1 || x == 0 || x == width - 1) {
-                    grid[y][x] = 'W';   // Mur
+                    grid[y][x] = 'B';   // Mur
                 } else {
                     grid[y][x] = ' ';   // Sol
                 }
