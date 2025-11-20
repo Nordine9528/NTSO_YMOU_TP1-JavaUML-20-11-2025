@@ -45,7 +45,7 @@ Le projet est principalement pédagogique et sert à comprendre la conception or
 
 ## 3. Fonctionnalités implémentées
 
-* Initialisation d’un donjon avec des murs (`W`) et des espaces (` `).
+* Initialisation d’un donjon avec des murs (`B`) et des espaces (` `). 'B' pour BorderMap
 * Affichage du donjon en console.
 * Gestion de collisions simples entre HitBoxes.
 * Création d’une structure modulaire d’objets du donjon avec héritage.
